@@ -14,3 +14,17 @@
 
 
 
+\## Python Basics
+
+\*\*What I learned today\*\*
+
+\- \*\*Variables\*\* hold information:
+
+&nbsp; ```python
+
+&nbsp; name = "Vanisha"
+
+&nbsp; project = "Wolvrn.ai"
+
+
+
