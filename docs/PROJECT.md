@@ -26,9 +26,8 @@
 
   project = "Wolvrn.ai"
 
+
 \## Terminal \& File System Cheat Sheet (Windows + Git Bash)
-
-
 
 \*\*Navigation\*\*
 
